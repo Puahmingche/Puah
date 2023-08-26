@@ -1562,7 +1562,7 @@ a {
 .cid-tMlDYtQ5fF {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #edefeb;
+  background-image: url("../../../assets/images/088-mercedes-amg-cla-facelift-2000x1125.jpg");
 }
 .cid-tMlDYtQ5fF .mbr-fallback-image.disabled {
   display: none;
@@ -1829,9 +1829,11 @@ a {
 }
 .cid-tMlDYtQ5fF H3 {
   text-align: center;
+  color: #ffffff;
 }
 .cid-tMlDYtQ5fF H4 {
   text-align: center;
+  color: #ffffff;
 }
 .cid-tLAX5BnXkJ {
   display: flex;
