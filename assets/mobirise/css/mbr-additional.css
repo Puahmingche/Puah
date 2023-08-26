@@ -52,12 +52,12 @@ body {
   font-size: 3.75rem;
 }
 .display-7 {
-  font-family: 'Merriweather', serif;
-  font-size: 1rem;
+  font-family: 'EB Garamond', serif;
+  font-size: 1.1rem;
   line-height: 1.3;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.25rem;
+  font-size: 1.375rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -91,9 +91,9 @@ body {
     line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-7 {
-    font-size: 0.8rem;
-    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.88rem;
+    font-size: calc( 1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -613,14 +613,14 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Merriweather', serif;
-  font-size: 1rem;
+  font-family: 'EB Garamond', serif;
+  font-size: 1.1rem;
   line-height: 1.3;
   font-weight: 400;
   border-radius: 40px !important;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.25rem;
+  font-size: 1.375rem;
 }
 .form-control:hover,
 .form-control:focus {
@@ -628,13 +628,13 @@ a:hover {
   border-color: #ffffff !important;
 }
 .form-control:-webkit-input-placeholder {
-  font-family: 'Merriweather', serif;
-  font-size: 1rem;
+  font-family: 'EB Garamond', serif;
+  font-size: 1.1rem;
   line-height: 1.3;
   font-weight: 400;
 }
 .form-control:-webkit-input-placeholder > .mbr-iconfont {
-  font-size: 1.25rem;
+  font-size: 1.375rem;
 }
 blockquote {
   border-color: #ffffff;
@@ -1403,31 +1403,35 @@ a {
 .cid-tO11IvQeAM H5 {
   text-align: center;
 }
-.cid-tMlEXTHLbS {
-  padding-top: 4rem;
+.cid-tO1K6U5kt2 {
+  padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #000000;
+  background-image: url("../../../assets/images/2023-mercedes-amg-cla-45s-front-top-1500x1000.jpeg");
 }
-.cid-tMlEXTHLbS img,
-.cid-tMlEXTHLbS .item-img {
+.cid-tO1K6U5kt2 .mbr-overlay {
+  background: #000000;
+  opacity: 0.6;
+}
+.cid-tO1K6U5kt2 img,
+.cid-tO1K6U5kt2 .item-img {
   width: 100%;
   height: 100%;
-  height: 300px;
+  height: 200px;
   object-fit: cover;
 }
-.cid-tMlEXTHLbS .item:focus,
-.cid-tMlEXTHLbS span:focus {
+.cid-tO1K6U5kt2 .item:focus,
+.cid-tO1K6U5kt2 span:focus {
   outline: none;
 }
-.cid-tMlEXTHLbS .item {
+.cid-tO1K6U5kt2 .item {
   margin-bottom: 2rem;
 }
 @media (max-width: 767px) {
-  .cid-tMlEXTHLbS .item {
+  .cid-tO1K6U5kt2 .item {
     margin-bottom: 1rem;
   }
 }
-.cid-tMlEXTHLbS .item-content {
+.cid-tO1K6U5kt2 .item-content {
   margin-top: 2rem;
   padding: 0 2.25rem 2.25rem;
   display: flex;
@@ -1435,42 +1439,36 @@ a {
   height: 100%;
 }
 @media (max-width: 767px) {
-  .cid-tMlEXTHLbS .item-content {
+  .cid-tO1K6U5kt2 .item-content {
     padding: 0 2rem 1.5rem;
     margin-top: 1rem;
   }
 }
-.cid-tMlEXTHLbS .item-wrapper {
+.cid-tO1K6U5kt2 .item-wrapper {
   position: relative;
   background: #ffffff;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
 }
-.cid-tMlEXTHLbS .item-wrapper .item-footer {
+.cid-tO1K6U5kt2 .item-wrapper .item-footer {
   margin-top: auto;
 }
-.cid-tMlEXTHLbS .mbr-section-title {
+.cid-tO1K6U5kt2 .mbr-section-title {
   color: #ffffff;
+}
+.cid-tO1K6U5kt2 .item-title {
   text-align: center;
 }
-.cid-tMlEXTHLbS .item-title {
+.cid-tO1K6U5kt2 .item-subtitle {
   text-align: center;
 }
-.cid-tMlEXTHLbS .item-subtitle {
-  text-align: left;
+.cid-tO1K6U5kt2 .mbr-text,
+.cid-tO1K6U5kt2 .item .mbr-section-btn {
+  text-align: center;
 }
-.cid-tMlEXTHLbS .mbr-text,
-.cid-tMlEXTHLbS .item .mbr-section-btn {
-  text-align: left;
-}
-.cid-tMlEXTHLbS .content-head {
+.cid-tO1K6U5kt2 .content-head {
   max-width: 800px;
-}
-.cid-tMlEXTHLbS .mbr-section-subtitle,
-.cid-tMlEXTHLbS .mbr-section-head .mbr-section-btn {
-  color: #ffffff;
-  text-align: center;
 }
 .cid-tMlDYtQ5fF {
   padding-top: 6rem;
