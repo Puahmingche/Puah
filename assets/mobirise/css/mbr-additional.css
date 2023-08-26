@@ -2011,7 +2011,7 @@ a {
 .cid-tJS9pBcTSa {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #000000;
+  background-color: #0d0d0d;
 }
 .cid-tJS9pBcTSa .mbr-overlay {
   background-color: #ffffff;
@@ -2181,5 +2181,8 @@ a {
   text-align: center;
 }
 .cid-tO2MDzRqhL .mbr-section-title {
+  color: #ffffff;
+}
+.cid-tO2MDzRqhL header-menu-item {
   color: #ffffff;
 }
