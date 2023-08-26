@@ -13,11 +13,11 @@
         "warningColor": "#a0e2e1",
         "dangerColor": "#ffffff",
         "mainFont": "Inter Tight",
-        "display1Font": "Merriweather",
+        "display1Font": "Spantaran (demo)",
         "display1Size": "5",
-        "display2Font": "Merriweather",
+        "display2Font": "Spantaran (demo)",
         "display2Size": "2",
-        "display5Font": "Corporate A Light",
+        "display5Font": "Spantaran (demo)",
         "display5Size": "3",
         "display7Font": "Merriweather",
         "display7Size": "1",
@@ -79,6 +79,12 @@
         "name": "Corporate A Light",
         "url": null,
         "file": "@PROJECT_PATH@/fonts/Corporate%20A%20Light/font.ttf"
+      },
+      {
+        "css": "'Spantaran (demo)'",
+        "name": "Spantaran (demo)",
+        "url": null,
+        "file": "@PROJECT_PATH@/fonts/Spantaran%20(demo)/font.ttf"
       }
     ],
     "uniqCompNum": 72,
@@ -86,7 +92,7 @@
     "imageResize": true,
     "chatbutton": {},
     "favicon": false,
-    "mbrsiteDomain": "ktjot1jvkl",
+    "mbrsiteDomain": "hhlsd7nukt",
     "usedWebp": false,
     "cssOptimize": false,
     "lazyLoad": false,
