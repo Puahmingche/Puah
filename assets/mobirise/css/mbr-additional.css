@@ -1470,6 +1470,160 @@ a {
 .cid-tO1K6U5kt2 .content-head {
   max-width: 800px;
 }
+.cid-tO1Mq0xcjt {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/2023-mercedes-amg-cla-45s-front-top-1-1500x1000.jpeg");
+}
+.cid-tO1Mq0xcjt .mbr-overlay {
+  background: #000000;
+  opacity: 0.7;
+}
+.cid-tO1Mq0xcjt img,
+.cid-tO1Mq0xcjt .item-img {
+  width: 100%;
+  height: 100%;
+  height: 400px;
+  object-fit: cover;
+}
+.cid-tO1Mq0xcjt .item:focus,
+.cid-tO1Mq0xcjt span:focus {
+  outline: none;
+}
+.cid-tO1Mq0xcjt .item-wrapper {
+  position: relative;
+}
+.cid-tO1Mq0xcjt .slide-content {
+  position: relative;
+  border-radius: 4px;
+  background: #ffffff;
+  height: 100%;
+  display: flex;
+  overflow: hidden;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-tO1Mq0xcjt .slide-content .item-content {
+    padding: 2.25rem 2.25rem 0;
+  }
+  .cid-tO1Mq0xcjt .slide-content .item-footer {
+    padding: 0 2.25rem 2.25rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-tO1Mq0xcjt .slide-content .item-content {
+    padding: 1.5rem 1.5rem 0;
+  }
+  .cid-tO1Mq0xcjt .slide-content .item-footer {
+    padding: 0 1.5rem 1.5rem;
+  }
+}
+.cid-tO1Mq0xcjt .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-tO1Mq0xcjt .mbr-section-title {
+  color: #ffffff;
+}
+.cid-tO1Mq0xcjt .mbr-text,
+.cid-tO1Mq0xcjt .mbr-section-btn {
+  text-align: left;
+}
+.cid-tO1Mq0xcjt .item-title {
+  text-align: left;
+}
+.cid-tO1Mq0xcjt .item-subtitle {
+  text-align: left;
+  color: #bbbbbb;
+}
+.cid-tO1Mq0xcjt .embla__slide {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  min-width: 370px;
+  max-width: 370px;
+}
+@media (max-width: 768px) {
+  .cid-tO1Mq0xcjt .embla__slide {
+    min-width: 85%;
+    max-width: initial;
+  }
+}
+.cid-tO1Mq0xcjt .embla__button--next,
+.cid-tO1Mq0xcjt .embla__button--prev {
+  display: flex;
+}
+.cid-tO1Mq0xcjt .embla__button {
+  top: 50%;
+  width: 60px;
+  height: 60px;
+  margin-top: -1.5rem;
+  font-size: 22px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  transition: all 0.3s;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cid-tO1Mq0xcjt .embla__button:disabled {
+  cursor: default;
+  display: none;
+}
+.cid-tO1Mq0xcjt .embla__button:hover {
+  background: #000;
+  color: rgba(255, 255, 255, 0.5);
+}
+.cid-tO1Mq0xcjt .embla__button.embla__button--prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-tO1Mq0xcjt .embla__button.embla__button--next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+@media (max-width: 767px) {
+  .cid-tO1Mq0xcjt .embla__button {
+    top: auto;
+  }
+}
+.cid-tO1Mq0xcjt .embla {
+  position: relative;
+  width: 100%;
+}
+.cid-tO1Mq0xcjt .embla__viewport {
+  overflow: hidden;
+  width: 100%;
+}
+.cid-tO1Mq0xcjt .embla__viewport.is-draggable {
+  cursor: grab;
+}
+.cid-tO1Mq0xcjt .embla__viewport.is-dragging {
+  cursor: grabbing;
+}
+.cid-tO1Mq0xcjt .embla__container {
+  display: flex;
+  user-select: none;
+  -webkit-touch-callout: none;
+  -khtml-user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+@media (max-width: 768px) {
+  .cid-tO1Mq0xcjt .embla__container .embla__slide:first-child {
+    margin-left: 2rem !important;
+  }
+  .cid-tO1Mq0xcjt .embla__container .embla__slide:last-child {
+    margin-right: 2rem !important;
+  }
+}
+.cid-tO1Mq0xcjt .content-head {
+  max-width: 800px;
+}
+.cid-tO1Mq0xcjt .mbr-section-subtitle {
+  color: #ffffff;
+}
 .cid-tMlDYtQ5fF {
   padding-top: 6rem;
   padding-bottom: 6rem;
