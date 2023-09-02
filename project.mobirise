@@ -115,7 +115,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Mercedes-AMG CLA Coupé",
+        "title": "HomePage",
         "meta_descr": "Mercedes-AMG CLA 45 S 4MATIC+ combined fuel consumption: 8.9 – 8.5 l/100 km, combined CO₂ emissions: 194.0 – 203.0 g/km[1]",
         "header_custom": "",
         "footer_custom": "",
@@ -1605,7 +1605,7 @@
         "footer_custom": "",
         "html_before": "",
         "meta_image": "@PROJECT_PATH@/assets/images/080-mercedes-amg-cla-facelift-2000x1125.jpg",
-        "order": "2"
+        "order": "1"
       },
       "components": [
         {
@@ -2333,7 +2333,7 @@
         "footer_custom": "",
         "html_before": "",
         "meta_image": "@PROJECT_PATH@/assets/images/080-mercedes-amg-cla-facelift-2000x1125.jpg",
-        "order": "1"
+        "order": "2"
       },
       "components": [
         {
