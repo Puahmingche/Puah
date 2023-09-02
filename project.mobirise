@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "httpspuahmingche.github.ioPuahaboutus.html.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -92,7 +92,7 @@
         "url": "https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 120,
+    "uniqCompNum": 124,
     "versionPublish": "5.9.4",
     "imageResize": true,
     "chatbutton": {},
@@ -2944,7 +2944,7 @@
         "footer_custom": "",
         "html_before": "",
         "meta_image": "@PROJECT_PATH@/assets/images/080-mercedes-amg-cla-facelift-2000x1125.jpg",
-        "order": "4"
+        "order": "5"
       },
       "components": [
         {
