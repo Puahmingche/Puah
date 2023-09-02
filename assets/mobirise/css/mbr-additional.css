@@ -1088,7 +1088,7 @@ a {
 .cid-tOFOrCbxii {
   display: flex;
   padding-top: 180px;
-  padding-bottom: 180px;
+  padding-bottom: 15px;
   background-image: url("../../../assets/images/080-mercedes-amg-cla-facelift-2000x1125.jpg");
 }
 .cid-tOFOrCbxii .mbr-overlay {
@@ -1128,114 +1128,26 @@ a {
 .cid-tOFOrCbxii .mbr-section-btn {
   text-align: center;
 }
-.cid-tOFOrCYB8B {
+.cid-tOH414JrX2 {
   padding-top: 5rem;
-  padding-bottom: 3rem;
-  background-color: #0d0d0d;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
 }
-.cid-tOFOrCYB8B .mbr-overlay {
+.cid-tOH414JrX2 .mbr-overlay {
   background-color: #ffffff;
   opacity: 0.4;
 }
-.cid-tOFOrCYB8B form .mbr-section-btn {
+@media (min-width: 992px) {
+  .cid-tOH414JrX2 form {
+    width: 50%;
+  }
+}
+.cid-tOH414JrX2 form .mbr-section-btn {
   text-align: center;
   width: 100%;
 }
-.cid-tOFOrCYB8B form .mbr-section-btn .btn {
-  display: inline-flex;
-}
-@media (max-width: 991px) {
-  .cid-tOFOrCYB8B form .mbr-section-btn .btn {
-    width: 100%;
-  }
-}
-.cid-tOFOrCYB8B .mbr-section-title {
-  color: #ffffff;
-}
-.cid-tOFOrDd1vk {
-  padding-top: 3rem;
-  padding-bottom: 6rem;
-  background: #0d0d0d;
-}
-.cid-tOFOrDd1vk .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tOFOrDd1vk .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
+.cid-tOH414JrX2 form .mbr-section-btn .btn {
   width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-@media (max-width: 767px) {
-  .cid-tOFOrDd1vk .row {
-    text-align: center;
-  }
-  .cid-tOFOrDd1vk .row .map-wrapper {
-    margin-top: 1rem;
-  }
-}
-.cid-tOFOrDd1vk .google-map {
-  height: 100%;
-  position: relative;
-}
-.cid-tOFOrDd1vk .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-@media (max-width: 767px) {
-  .cid-tOFOrDd1vk .google-map iframe {
-    min-height: 350px;
-  }
-}
-.cid-tOFOrDd1vk .google-map [data-state-details] {
-  color: #6b6763;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-tOFOrDd1vk .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-tOFOrDd1vk .google-map[data-state="loading"] [data-state-details] {
-  display: none;
-}
-.cid-tOFOrDd1vk .card-wrapper {
-  background: #ffffff;
-}
-@media (max-width: 767px) {
-  .cid-tOFOrDd1vk .card-wrapper {
-    padding: 2rem 1.5rem;
-  }
-}
-@media (min-width: 768px) {
-  .cid-tOFOrDd1vk .card-wrapper {
-    padding: 2.25rem;
-  }
-}
-.cid-tOFOrDd1vk .text-wrapper {
-  padding: 0 1rem;
-}
-@media (max-width: 767px) {
-  .cid-tOFOrDd1vk .cardTitle,
-  .cid-tOFOrDd1vk .item-wrap {
-    text-align: center;
-  }
-}
-.cid-tOFOrDd1vk ul {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-}
-.cid-tOFOrDd1vk .mbr-section-title {
-  color: #ffffff;
 }
 .cid-tOFOrDB0KE {
   padding-top: 6rem;
