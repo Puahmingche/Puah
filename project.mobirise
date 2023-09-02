@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "aboutus.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -1667,7 +1667,7 @@
         }
       ]
     },
-    "aboutus.html": {
+    "httpspuahmingche.github.ioPuahaboutus.html.html": {
       "settings": {
         "title": "About us",
         "meta_descr": "Mercedes-AMG CLA 45 S 4MATIC+ combined fuel consumption: 8.9 – 8.5 l/100 km, combined CO₂ emissions: 194.0 – 203.0 g/km[1]",
